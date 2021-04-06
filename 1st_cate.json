@@ -1,0 +1,384 @@
+{"children": [
+        {"name": "Celebrities & Entertainment News", "id": 184
+        },
+        {"children": [
+                {"name": "Animated Films", "id": 1104
+                },
+                {"name": "Anime & Manga", "id": 317
+                },
+                {"name": "Cartoons", "id": 319
+                },
+                {"name": "Comics", "id": 318
+                }
+            ], "name": "Comics & Animation", "id": 316
+        },
+        {"children": [
+                {"children": [
+                        {"name": "Film & TV Awards", "id": 1108
+                        },
+                        {"name": "Film & TV Production", "id": 1117
+                        }
+                    ], "name": "Film & TV Industry", "id": 1116
+                },
+                {"children": [
+                        {"name": "Music Awards", "id": 1113
+                        },
+                        {"name": "Record Labels", "id": 1114
+                        }
+                    ], "name": "Recording Industry", "id": 1115
+                }
+            ], "name": "Entertainment Industry", "id": 612
+        },
+        {"children": [
+                {"name": "Clubs & Nightlife", "id": 188
+                },
+                {"name": "Concerts & Music Festivals", "id": 891
+                },
+                {"name": "Film Festivals", "id": 1086
+                },
+                {"name": "Live Sporting Events", "id": 1273
+                },
+                {"name": "Movie Listings & Theater Showtimes", "id": 1085
+                },
+                {"name": "Ticket Sales", "id": 614
+                }
+            ], "name": "Events & Listings", "id": 569
+        },
+        {"children": [
+                {"name": "Dress-Up & Fashion Games", "id": 1173
+                },
+                {"name": "Flash-Based Entertainment", "id": 447
+                },
+                {"name": "Fun Tests & Silly Surveys", "id": 1174
+                }
+            ], "name": "Fun & Trivia", "id": 539
+        },
+        {"children": [
+                {"name": "Comedy Films", "id": 1095
+                },
+                {"name": "Live Comedy", "id": 895
+                },
+                {"name": "Political Humor", "id": 1180
+                },
+                {"name": "Spoofs & Satire", "id": 1244
+                },
+                {"name": "TV Comedies", "id": 1047
+                }
+            ], "name": "Humor", "id": 182
+        },
+        {"children": [
+                {"children": [
+                        {"name": "Martial Arts Films", "id": 1101
+                        },
+                        {"name": "Superhero Films", "id": 1100
+                        },
+                        {"name": "Western Films", "id": 1099
+                        }
+                    ], "name": "Action & Adventure Films", "id": 1097
+                },
+                {"name": "Animated Films", "id": 1104
+                },
+                {"name": "Bollywood & South Asian Film", "id": 360
+                },
+                {"children": [
+                        {"name": "Silent Films", "id": 1098
+                        }
+                    ], "name": "Classic Films", "id": 1102
+                },
+                {"name": "Comedy Films", "id": 1095
+                },
+                {"name": "Cult & Indie Films", "id": 1103
+                },
+                {"name": "Documentary Films", "id": 1072
+                },
+                {"name": "Drama Films", "id": 1094
+                },
+                {"children": [
+                        {"name": "DVD & Video Rentals", "id": 1145
+                        }
+                    ], "name": "DVD & Video Shopping", "id": 210
+                },
+                {"name": "Family Films", "id": 1291
+                },
+                {"name": "Film & TV Awards", "id": 1108
+                },
+                {"name": "Film Festivals", "id": 1086
+                },
+                {"name": "Horror Films", "id": 615
+                },
+                {"name": "Movie Memorabilia", "id": 213
+                },
+                {"children": [
+                        {"name": "Movie Reviews & Previews", "id": 1107
+                        }
+                    ], "name": "Movie Reference", "id": 1106
+                },
+                {"name": "Musical Films", "id": 1105
+                },
+                {"name": "Romance Films", "id": 1310
+                },
+                {"name": "Science Fiction & Fantasy Films", "id": 616
+                },
+                {"name": "Thriller, Crime & Mystery Films", "id": 1096
+                }
+            ], "name": "Movies", "id": 34
+        },
+        {"children": [
+                {"name": "CD & Audio Shopping", "id": 217
+                },
+                {"children": [
+                        {"name": "Opera", "id": 1185
+                        }
+                    ], "name": "Classical Music", "id": 586
+                },
+                {"name": "Country Music", "id": 587
+                },
+                {"name": "Dance & Electronic Music", "id": 588
+                },
+                {"name": "Experimental & Industrial Music", "id": 1022
+                },
+                {"name": "Folk & Traditional Music", "id": 1023
+                },
+                {"children": [
+                        {"name": "Blues", "id": 1040
+                        },
+                        {"name": "Jazz", "id": 42
+                        }
+                    ], "name": "Jazz & Blues", "id": 589
+                },
+                {"name": "Latin Pop", "id": 1285
+                },
+                {"name": "Music Art & Memorabilia", "id": 218
+                },
+                {"name": "Music Education & Instruction", "id": 1087
+                },
+                {"children": [
+                        {"name": "DJ Resources & Equipment", "id": 1025
+                        },
+                        {"name": "Music Recording Technology", "id": 1026
+                        },
+                        {"children": [
+                                {"name": "Drums & Percussion", "id": 1327
+                                },
+                                {"name": "Guitars", "id": 1325
+                                },
+                                {"name": "Pianos & Keyboards", "id": 1326
+                                }
+                            ], "name": "Musical Instruments", "id": 216
+                        },
+                        {"name": "Samples & Sound Libraries", "id": 1091
+                        }
+                    ], "name": "Music Equipment & Technology", "id": 1024
+                },
+                {"children": [
+                        {"name": "Music Composition & Theory", "id": 1028
+                        },
+                        {"name": "Sheet Music", "id": 892
+                        },
+                        {"name": "Song Lyrics & Tabs", "id": 617
+                        }
+                    ], "name": "Music Reference", "id": 1027
+                },
+                {"name": "Music Streams & Downloads", "id": 220
+                },
+                {"name": "Pop Music", "id": 1021
+                },
+                {"children": [
+                        {"name": "Podcasting", "id": 809
+                        },
+                        {"name": "Talk Radio", "id": 1186
+                        }
+                    ], "name": "Radio", "id": 215
+                },
+                {"children": [
+                        {"name": "Christian & Gospel Music", "id": 585
+                        }
+                    ], "name": "Religious Music", "id": 1020
+                },
+                {"children": [
+                        {"name": "Classic Rock & Oldies", "id": 1037
+                        },
+                        {"name": "Hard Rock & Progressive", "id": 1035
+                        },
+                        {"name": "Indie & Alternative Music", "id": 1038
+                        },
+                        {"name": "Metal (Music)", "id": 1036
+                        },
+                        {"name": "Punk (Music)", "id": 1041
+                        }
+                    ], "name": "Rock Music", "id": 590
+                },
+                {"name": "Soundtracks", "id": 893
+                },
+                {"children": [
+                        {"name": "Rap & Hip-Hop", "id": 1030
+                        },
+                        {"name": "Reggaeton", "id": 1242
+                        },
+                        {"name": "Soul & R&B", "id": 1039
+                        }
+                    ], "name": "Urban & Hip-Hop", "id": 592
+                },
+                {"name": "Vocals & Show Tunes", "id": 618
+                },
+                {"children": [
+                        {"name": "African Music", "id": 1208
+                        },
+                        {"name": "Arab & Middle Eastern Music", "id": 1034
+                        },
+                        {"name": "East Asian Music", "id": 1033
+                        },
+                        {"children": [
+                                {"name": "Brazilian Music", "id": 1287
+                                },
+                                {"name": "Latin Pop", "id": 1285
+                                },
+                                {"name": "Reggaeton", "id": 1242
+                                },
+                                {"name": "Salsa & Tropical Music", "id": 1286
+                                }
+                            ], "name": "Latin American Music", "id": 591
+                        },
+                        {"children": [
+                                {"name": "Reggaeton", "id": 1242
+                                }
+                            ], "name": "Reggae & Caribbean Music", "id": 1031
+                        },
+                        {"name": "South Asian Music", "id": 1032
+                        }
+                    ], "name": "World Music", "id": 593
+                }
+            ], "name": "Music & Audio", "id": 35
+        },
+        {"children": [
+                {"name": "Edgy & Bizarre", "id": 538
+                },
+                {"name": "Occult & Paranormal", "id": 449
+                }
+            ], "name": "Offbeat", "id": 33
+        },
+        {"children": [
+                {"name": "Flash-Based Entertainment", "id": 447
+                },
+                {"name": "Music Streams & Downloads", "id": 220
+                },
+                {"children": [
+                        {"name": "Massive Multiplayer", "id": 935
+                        }
+                    ], "name": "Online Games", "id": 105
+                },
+                {"children": [
+                        {"name": "Photo & Image Sharing", "id": 978
+                        },
+                        {"name": "Photo Rating Sites", "id": 320
+                        },
+                        {"name": "Stock Photography", "id": 574
+                        }
+                    ], "name": "Online Image Galleries", "id": 1222
+                },
+                {"children": [
+                        {"name": "Video Sharing", "id": 979
+                        }
+                    ], "name": "Online Video", "id": 211
+                },
+                {"name": "Web Portals", "id": 301
+                },
+                {"name": "Webcams & Virtual Tours", "id": 575
+                }
+            ], "name": "Online Media", "id": 613
+        },
+        {"children": [
+                {"name": "Acting & Theater", "id": 894
+                },
+                {"name": "Broadway & Musical Theater", "id": 1243
+                },
+                {"name": "Dance", "id": 581
+                },
+                {"name": "Opera", "id": 1185
+                }
+            ], "name": "Performing Arts", "id": 23
+        },
+        {"children": [
+                {"children": [
+                        {"name": "Video Sharing", "id": 979
+                        }
+                    ], "name": "Online Video", "id": 211
+                },
+                {"name": "TV Commercials", "id": 1055
+                },
+                {"name": "TV Guides & Reference", "id": 1187
+                },
+                {"name": "TV Networks & Stations", "id": 359
+                },
+                {"children": [
+                        {"name": "TV Comedies", "id": 1047
+                        },
+                        {"children": [
+                                {"name": "TV Crime & Legal Shows", "id": 1111
+                                },
+                                {"name": "TV Medical Shows", "id": 1194
+                                },
+                                {"name": "TV Soap Operas", "id": 357
+                                }
+                            ], "name": "TV Dramas", "id": 1193
+                        },
+                        {"name": "TV Family-Oriented Shows", "id": 1110
+                        },
+                        {"name": "TV Game Shows", "id": 1050
+                        },
+                        {"name": "TV Reality Shows", "id": 1049
+                        },
+                        {"name": "TV Sci-Fi & Fantasy Shows", "id": 1112
+                        },
+                        {"name": "TV Talk Shows", "id": 1048
+                        }
+                    ], "name": "TV Shows & Programs", "id": 358
+                }
+            ], "name": "TV & Video", "id": 36
+        },
+        {"children": [
+                {"name": "Architecture", "id": 477
+                },
+                {"name": "Art & Craft Supplies", "id": 1361
+                },
+                {"name": "Arts Education", "id": 1195
+                },
+                {"children": [
+                        {"name": "CAD & CAM", "id": 1300
+                        },
+                        {"name": "Graphic Design", "id": 654
+                        },
+                        {"name": "Industrial & Product Design", "id": 655
+                        },
+                        {"name": "Interior Design", "id": 656
+                        }
+                    ], "name": "Design", "id": 653
+                },
+                {"name": "Painting", "id": 1167
+                },
+                {"children": [
+                        {"children": [
+                                {"name": "Binoculars, Telescopes & Optical Devices", "id": 1384
+                                },
+                                {"children": [
+                                        {"name": "Camcorders", "id": 308
+                                        },
+                                        {"name": "Camera Lenses", "id": 1383
+                                        },
+                                        {"name": "Cameras", "id": 307
+                                        }
+                                    ], "name": "Cameras & Camcorders", "id": 306
+                                }
+                            ], "name": "Camera & Photo Equipment", "id": 573
+                        },
+                        {"children": [
+                                {"name": "Video File Formats & Codecs", "id": 1315
+                                }
+                            ], "name": "Photo & Video Software", "id": 577
+                        }
+                    ], "name": "Photographic & Digital Arts", "id": 439
+                }
+            ], "name": "Visual Art & Design", "id": 24
+        }
+    ], "name": "Arts & Entertainment", "id": 3
+}
